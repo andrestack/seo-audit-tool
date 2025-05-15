@@ -4,7 +4,7 @@
 
 1. **Create repo** `seo-audit-assistant` on GitHub.
 2. Scaffold with `create-next-app@latest –‑typescript`.
-3. Add Tailwind & shadcn/ui (`npx shadcn-ui@latest init`).
+3. Add Tailwind & shadcn/ui (`npx shadcn@latest init`).
 4. Create `/scripts` folder; copy existing Node audit utilities.
 5. Initialise Prisma; configure SQLite dev DB.
 6. Install deps: `axios`, `cheerio`, `puppeteer`, `openai`, `recharts`, `clsx`, `next-auth`, `zod`.
